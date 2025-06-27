@@ -1,1 +1,1 @@
-Test progect. git & github example
+Test project. git & github example
